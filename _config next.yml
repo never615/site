@@ -4,18 +4,18 @@
 
 # Site
 title: never615
-subtitle: 创造价值
+subtitle: 个人小站
 description: 知行合一
 author: 王荣
 email: never615@gmail.com
 language: zh-Hans
 timezone: +08:00
-# avatar: /images/avatar.jpg
-# duoshuo_shortname: never615
-# baidu_analytics: b6a61631e3842e8376c0d49898539eac
-# swiftype_key: _sKLAHG3nGeht-z8WpbX
-# # 多说分享服务
-# duoshuo_share: true
+avatar: /images/avatar.jpg
+duoshuo_shortname: never615
+baidu_analytics: b6a61631e3842e8376c0d49898539eac
+swiftype_key: _sKLAHG3nGeht-z8WpbX
+# 多说分享服务
+duoshuo_share: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -70,7 +70,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yelee
+theme: next
 stylus: 
   compress: true
 
@@ -83,10 +83,10 @@ deploy:
   message: 更新站点
 
   # Social links
-# social:
-  # github: https://github.com/never615
+social:
+  github: https://github.com/never615
   # twitter: https://twitter.com/your-user-name
-  # weibo: http://weibo.com/never615
+  weibo: http://weibo.com/never615
   # douban: http://douban.com/people/your-user-name
   # zhihu: http://www.zhihu.com/people/your-user-name
   # 等等
